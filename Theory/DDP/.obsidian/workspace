@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "ad9f879bc083b1cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "911054d858d4feb2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Program Design.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0261e4f8056bf49",
+    "type": "split",
+    "children": [
+      {
+        "id": "a274f62f94a5f14c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bae6129ffbb4c4fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b50bed4666566005",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "02afe51fa0e48e2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "14de996c846f85bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4741419c9e28b5e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Program Design.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "911054d858d4feb2",
+  "lastOpenFiles": [
+    "Program Design.md"
+  ]
+}
