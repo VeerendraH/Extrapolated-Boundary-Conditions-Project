@@ -1,7 +1,8 @@
 {
-	"NN_array": [1,10,10,10,1],
+	"NN_array": [1,10,10,1],
 	"Datatype": "Dtype = torch.float64",
 	"Learning_Rate" : 0.5,
 	"Num_epoch": 10000,
-	"Num_write": 100
+	"Num_write": 100,
+	"Num_test": 100
 }

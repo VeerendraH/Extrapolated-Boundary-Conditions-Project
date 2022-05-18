@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Program Design.md",
+            "file": "Design of Experiment.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Program Design.md",
+                "file": "Design of Experiment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "911054d858d4feb2",
   "lastOpenFiles": [
-    "Program Design.md"
+    "Design of Experiment.md",
+    "Program Design.md",
+    "DDP_Thesis_Structure.pdf"
   ]
 }
